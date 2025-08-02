@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 
+
 #header h1 a, #header h1 a:hover {
   color: #dee2e6;
   line-height: 1;
@@ -285,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-top h1 {
   margin-right: auto;
-  font-size: 36px;
+  font-size: 28px;
 }
 
 #header.header-top .container {
