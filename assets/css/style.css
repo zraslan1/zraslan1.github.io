@@ -1098,7 +1098,7 @@ section .container {
   }
 }
 
-/* Added code for education page */
+/* Added code for education page
 
 #education .col-md-4 {
   flex: 0 0 31.5% !important;
@@ -1113,3 +1113,5 @@ section .container {
 #education {
   overflow: visible !important;
 }
+
+*/
