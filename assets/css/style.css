@@ -1098,18 +1098,21 @@ section .container {
   }
 }
 
-/* Added code for education page
+ /* Added code for education page */
+
 
 #education .col-md-4 {
-  flex: 0 0 31.5% !important;
-  max-width: 31.5% !important;
+  flex: 0 0 30% !important;
+  max-width: 30% !important;
 }
+
+
 #education .icon-box {
   margin: 1 !important;
   padding: 20px !important;
 }
 
-
+/*
 #education {
   overflow: visible !important;
 }
